@@ -13,6 +13,7 @@
 
 ---
 ### Стек технологий и инструменты:
+
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openJDK&logoColor=orange)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-090909?style=for-the-badge&logo=SpringBoot&logoColor=6DB33F)
 ![Spring Data](https://img.shields.io/badge/-Spring%20Data%20JPA-090909?style=for-the-badge&logo=Spring&logoColor=6DB33F)
